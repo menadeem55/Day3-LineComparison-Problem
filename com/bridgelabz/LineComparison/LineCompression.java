@@ -31,8 +31,11 @@ public class LineCompression {
 
 		if (length1 == length2) {
 			System.out.println("Both Length are Equal");
+		} else if (length1 > length2) {
+			System.out.println("Length of first Line is Greater");
 		} else {
-			System.out.println("Not Equal");
+			System.out.println("Length of second Line is Greater");
+
 		}
 
 	}
