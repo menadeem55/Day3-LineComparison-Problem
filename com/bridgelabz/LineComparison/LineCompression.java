@@ -1,8 +1,8 @@
-package com.bridgelabz.LineComparison;
+package com.bridgelabz.linecomparison;
 
 import java.util.Scanner;
 
-public class LineCompression {
+public class lineCompression {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to the Line Compression Program");
